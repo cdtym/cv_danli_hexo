@@ -8,7 +8,7 @@ description: 博士生，统计学& 数据科学专业，2023年应届毕业⽣
 resume_title: 李丹
 # 应聘者姓名
 name: 李丹
-avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
+avatar: https://github.com/cdtym/cv_danli_hexo/raw/main/res/portrait.png
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
