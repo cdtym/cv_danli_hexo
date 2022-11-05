@@ -26,7 +26,7 @@ contact:
 download:
   title: 下载pdf简历
   icon: fas fa-download fa-fw
-  url: https://github.com/xaoxuu/resume-docs
+  url: https://github.com/cdtym/cv_danli_hexo/raw/main/res/CV_DanLI.pdf
 ---
 
 {% raw %}
