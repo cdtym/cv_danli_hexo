@@ -5,10 +5,10 @@ lang: zh-cn
 keywords: 简历
 description: 博士生，统计学& 数据科学专业，2023年应届毕业⽣
 # 简历标题
-resume_title: 李丹的简历
+resume_title: 李丹
 # 应聘者姓名
 name: 李丹
-avatar: https://gitee.com/cdtym/cv_danli_hexo/raw/main/res/portrait.png
+avatar: https://github.com/cdtym/cv_danli_hexo/raw/main/res/portrait.png
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
@@ -26,7 +26,7 @@ contact:
 download:
   title: 下载pdf简历
   icon: fas fa-download fa-fw
-  url: https://gitee.com/cdtym/cv_danli_hexo/raw/main/res/CV_DanLI.pdf
+  url: https://github.com/cdtym/cv_danli_hexo/raw/main/res/CV_DanLI.pdf
 ---
 
 {% raw %}
